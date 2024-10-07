@@ -62,12 +62,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Sertx7/Sertx7/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
 </div>
 
