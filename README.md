@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">• Dev Front-End<br>• 20 years<br>• Brazil</p>
+<p align="left">• Dev Front-End<br>• 20 years<br>• Brazil │:flag_br:</p>
 
 ###
 
@@ -23,15 +23,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
   <img width="12" />
@@ -40,6 +38,10 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
 </div>
 
 ###
