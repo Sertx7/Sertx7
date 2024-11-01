@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">• Dev Front-End<br>• 20 years<br>• Brazil │ 🇧🇷:</p>
+<p align="left">• Dev Front-End<br>• 20 years<br>• Brazil │<a href='https://emojitool.com/pt/flag-for-brazil'>🇧🇷</a></p>
 
 ###
 
