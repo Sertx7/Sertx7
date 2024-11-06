@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">• Dev Front-End<br>• 20 years<br>• Brazil</p>
+<p align="left">• Front-End Dev<br>• 20 years<br>• Brazil</p>
 
 ###
 
