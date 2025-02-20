@@ -1,22 +1,14 @@
-<br clear="both">
-
 <h1 align="center">Hello everyone! You can call me Sertx 👾</h1>
 
 ###
-
-<br clear="both">
 
 <h2 align="left">About me</h2>
 
 ###
 
-<br clear="both">
-
 <p align="left">• Dev Front-End<br>• 21 years<br>• Brazil</p>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sertx7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&custom_title=Most%20Used%20Languages" height="150" alt="languages graph"  />
@@ -27,8 +19,6 @@
 <h2 align="left">Techs/Skills</h2>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
@@ -60,24 +50,15 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="left">Where to find me:</h2>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <a href="https://www.linkedin.com/in/danielpeixoto01/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
-
-###
-
-<div align="left">
 </div>
 
 ###
