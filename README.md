@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">Languages:</p>
+<p align="left">• Languages:</p>
 
 ###
 
@@ -41,7 +41,7 @@
 
 ###
 
-<p align="left">Frameworks:</p>
+<p align="left">• Frameworks:</p>
 
 ###
 
@@ -59,7 +59,7 @@
 
 ###
 
-<p align="left">Databases:</p>
+<p align="left">• Databases:</p>
 
 ###
 
@@ -75,7 +75,7 @@
 
 ###
 
-<p align="left">Tools:</p>
+<p align="left">• Tools:</p>
 
 ###
 
@@ -87,7 +87,7 @@
 
 ###
 
-<p align="left">Hosting:</p>
+<p align="left">• Hosting:</p>
 
 ###
 
