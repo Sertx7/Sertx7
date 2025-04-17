@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">• Dev Front-End<br>• 21 years<br>• Brazil<br>...<br>Passionate about technology and web development, I create modern and responsive interfaces, focused on the best user experience. I am currently improving my back-end skills with Python/Django and SQL.</p>
+<p align="left">• Dev Front-End<br>• 21 anos<br>• Brasil<br>...<br>Apaixonado por tecnologia e desenvolvimento web, crio interfaces modernas e responsivas, focadas na melhor experiência do usuário. Atualmente, estou aprimorando minhas habilidades de back-end com Python/Django e SQL.</p>
 
 ###
 
