@@ -14,7 +14,7 @@
 
 ###
 
-<h1 align="center">🏆 Estatísticas</h1>
+<h2 align="center">🏆 Estatísticas</h2>
 
 ###
 
