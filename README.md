@@ -11,6 +11,33 @@ Oi, meu nome é Daniel, tenho 21 anos e sou apaixonado por tecnologia e desenvol
 
 ###
 
+<img align="right" height="200" src="https://media1.tenor.com/m/GTzbJen5xcoAAAAC/cute-wallpaper.gif"  />
+
+###
+
+<h2 align="left">🤝 Onde me encontrar</h2>
+
+###
+
+<div align="left">
+  <a href="https://daniel.peixotto9@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/danielpeixoto01/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/_eodanz/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/users/759248754661785660" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://linktr.ee/eodanz1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
+  </a>
+</div>
+
+
 <h2 align="left">🏆 Estatísticas</h2>
 
 ###
@@ -99,20 +126,3 @@ Oi, meu nome é Daniel, tenho 21 anos e sou apaixonado por tecnologia e desenvol
 
 ###
 
-<h2 align="left">🤝 Onde me encontrar</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/danielpeixoto01/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/_eodanz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://linktr.ee/eodanz1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
-  </a>
-</div>
-
-###
