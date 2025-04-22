@@ -83,48 +83,20 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](https://daniel.peixotto9@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_eodanz/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/759248754661785660)
-<a href="mailto:seuemail@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-<a href="mailto:seuemail@gmail.com">
+<a href="(https://daniel.peixotto9@gmail.com)">
     <img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"/>
 </a>
-<a href="https://github.com/seuusuario" target="_blank">
+<a href="(https://github.com/Sertx7)" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=red" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
+<a href="(https://www.linkedin.com/in/danielpeixoto01/)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=red" alt="LinkedIn"/>
 </a>
-<a href="https://www.instagram.com/seuusuario" target="_blank">
+<a href="(https://www.instagram.com/_eodanz/)" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=red" alt="Instagram"/>
 </a>
-<a href="https://discord.com/users/seuusuario" target="_blank">
+<a href="https://discord.com/users/759248754661785660" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-black?style=for-the-badge&logo=discord&logoColor=red" alt="Discord"/>
-</a>
-
-<!-- GitHub -->
-<a href="https://github.com/seuusuario" target="_blank">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<!-- Instagram -->
-<a href="https://www.instagram.com/seuusuario" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
-<!-- Discord -->
-<a href="https://discord.com/users/seuusuario" target="_blank">
-  <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-</a>
-
-<!-- Gmail -->
-<a href="mailto:seuemail@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
 
