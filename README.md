@@ -1,4 +1,4 @@
-<h1 align="left">Hello everyone👋! My name is Daniel 👾</h1>
+# Daniel Peixoto 👾
 
 ###
 
@@ -11,7 +11,7 @@ Apaixonado por tecnologia e desenvolvimento web, crio interfaces modernas e resp
 
 ###
 
-<h2 align="left">🏆 Statistics</h2>
+<h2 align="left">🏆 Estatísticas</h2>
 
 ###
 
@@ -26,7 +26,7 @@ Apaixonado por tecnologia e desenvolvimento web, crio interfaces modernas e resp
 
 ###
 
-<p align="left">• Languages:</p>
+<p align="left">• Linguagens:</p>
 
 ###
 
@@ -76,7 +76,7 @@ Apaixonado por tecnologia e desenvolvimento web, crio interfaces modernas e resp
 
 ###
 
-<p align="left">• Tools:</p>
+<p align="left">• Ferramentas:</p>
 
 ###
 
@@ -98,7 +98,7 @@ Apaixonado por tecnologia e desenvolvimento web, crio interfaces modernas e resp
 
 ###
 
-<h2 align="left">🤝 Where to find me:</h2>
+<h2 align="left">🤝 Onde me achar:</h2>
 
 ###
 
