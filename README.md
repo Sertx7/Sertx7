@@ -2,7 +2,7 @@
 
 ###
 
-##🙋🏿‍♂️ Sobre mim
+## 🙋🏿‍♂️ Sobre mim
 
 ###
 **`Desenvolvedor Front-End`**
