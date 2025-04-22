@@ -86,6 +86,9 @@
 <a href="mailto:seuemail@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
+<a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"/>
+</a>
 <a href="https://github.com/seuusuario" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=red" alt="GitHub"/>
 </a>
