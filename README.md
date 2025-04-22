@@ -77,7 +77,7 @@
 ###
 
 ### ⚙️ Operating Systems:
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
 
 ---
 
