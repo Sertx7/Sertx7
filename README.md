@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">🙋🏿‍♂️ Sobre mim</h3>
+##🙋🏿‍♂️ Sobre mim
 
 ###
 **`Desenvolvedor Front-End`**
