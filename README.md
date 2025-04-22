@@ -86,8 +86,9 @@
 <a href="https://github.com/Sertx7" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=red" alt="GitHub"/>
 </a>
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=red)](https://www.linkedin.com/in/danielpeixoto01/)
-
+<a href="https://www.linkedin.com/in/danielpeixoto01/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=red" alt="LinkedIn"/>
+</a>
 <a href="https://www.instagram.com/_eodanz/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=red" alt="Instagram"/>
 </a>
