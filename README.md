@@ -100,7 +100,8 @@
 <div align="center">
   <img height="250" src="https://media1.tenor.com/m/GTzbJen5xcoAAAAC/cute-wallpaper.gif"  />
 </div>
-https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHkzY3B0amhwZTI3azlleXJyenRkZWZyeWVwMTJtMHo3bTNjd3hqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif
+![Jogo da Cobrinha](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHkzY3B0amhwZTI3azlleXJyenRkZWZyeWVwMTJtMHo3bTNjd3hqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif)
+
 
 ###
 
