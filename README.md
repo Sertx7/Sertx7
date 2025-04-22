@@ -5,8 +5,9 @@
 <h2 align="left">🙋🏿‍♂️ About me</h2>
 
 ###
+**`Desenvolvedor FullStack`**
 
-<p align="left">**´Desenvolvedor Full Stack´**<br>...<br>Passionate about technology and web development, I create modern and responsive interfaces, focused on the best user experience. I am currently improving my back-end skills with Python/Django and SQL.</p>
+Apaixonado por tecnologia e desenvolvimento web, crio interfaces modernas e responsivas, focadas na melhor experiência do usuário. Atualmente, estou aprimorando minhas habilidades de back-end com Python/Django e SQL.
 
 ###
 
