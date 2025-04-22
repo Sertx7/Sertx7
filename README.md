@@ -72,7 +72,6 @@
 
 ### ⚙️ Operating Systems:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
@@ -84,7 +83,7 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/759248754661785660)
 
 
-<div align="left">
+<div align="center">
   <img height="250" src="https://media1.tenor.com/m/GTzbJen5xcoAAAAC/cute-wallpaper.gif"  />
 </div>
 
