@@ -98,12 +98,9 @@
 ###
 
 <div align="center">
-  <![Texto alternativo](https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif) />
+  <img height="250" src="https://media1.tenor.com/m/GTzbJen5xcoAAAAC/cute-wallpaper.gif"  />
+  ![Texto alternativo](https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif)
 </div>
-
-
-
-
 
 ###
 
