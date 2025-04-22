@@ -86,6 +86,20 @@
 <a href="mailto:seuemail@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
+<a href="https://github.com/seuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=red" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=red" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/seuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=red" alt="Instagram"/>
+</a>
+<a href="https://discord.com/users/seuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-black?style=for-the-badge&logo=discord&logoColor=red" alt="Discord"/>
+</a>
+
+###
 
 <div align="center">
   <img height="250" src="https://media1.tenor.com/m/GTzbJen5xcoAAAAC/cute-wallpaper.gif"  />
