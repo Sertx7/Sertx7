@@ -2,10 +2,6 @@
 
 ---
 
-<h1 align="center">Daniel Peixoto 👾</h1>
-
-###
-
 ## 🙋🏿‍♂️ Sobre mim
 
 ###
