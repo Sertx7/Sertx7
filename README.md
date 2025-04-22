@@ -83,19 +83,18 @@
 <a href="mailto:daniel.peixotto9@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"/>
 </a>
-<a href="https://github.com/Sertx7" target="_blank">
+<a href="https://github.com/Sertx7">
     <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=red" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/in/danielpeixoto01/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=red" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/danielpeixoto01/">
+    <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://www.instagram.com/_eodanz/" target="_blank">
+<a href="https://www.instagram.com/_eodanz/">
     <img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=red" alt="Instagram"/>
 </a>
-<a href="https://discord.com/users/759248754661785660" target="_blank">
+<a href="https://discord.com/users/759248754661785660">
     <img src="https://img.shields.io/badge/-Discord-black?style=for-the-badge&logo=discord&logoColor=red" alt="Discord"/>
 </a>
-
 ###
 
 <div align="center">
