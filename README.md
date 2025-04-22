@@ -21,7 +21,7 @@
 
 ###
 
-<h3 align="center">💻 My Stacks</h3>
+<h3 align="left">💻 My Stacks</h3>
 
 ###
 
@@ -57,7 +57,7 @@
 
 ###
 
-<h3 align="center">🤝 Connect with me!</h3>
+<h3 align="left">🤝 Connect with me!</h3>
 
 ###
 
@@ -81,7 +81,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="250" src="https://media1.tenor.com/m/GTzbJen5xcoAAAAC/cute-wallpaper.gif"  />
 </div>
 
