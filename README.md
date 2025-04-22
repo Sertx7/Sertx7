@@ -10,6 +10,10 @@
 
 ###
 **`Desenvolvedor Front-End`**
+<a href="#" style="background-color: black; color: red; padding: 5px;">
+  <img src="https://img.shields.io/badge/Desenvolvedor%20Front-End-black?style=for-the-badge&logo=html5&logoColor=red" alt="Desenvolvedor Front-End">
+</a>
+
 <p align="left">Oi, meu nome é Daniel, tenho 21 anos e sou apaixonado por tecnologia e desenvolvimento web, crio interfaces modernas e responsivas, focadas na melhor experiência do usuário. Atualmente, estou aprimorando minhas habilidades de back-end com Python/Django e SQL.</p>
 
 ###
