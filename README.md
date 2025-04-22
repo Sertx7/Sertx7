@@ -79,7 +79,7 @@
 
 ---
 
-### 🤝 Connect with me!
+## 🤝 Connect with me!
 <a href="mailto:daniel.peixotto9@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"/>
 </a>
