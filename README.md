@@ -90,6 +90,11 @@
 
 ###
 
+### ⚙️ Operating Systems:
+![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
+
+###
+
 <h3 align="left">🤝 Connect with me!</h3>
 
 ###
