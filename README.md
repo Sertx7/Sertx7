@@ -88,7 +88,7 @@
     <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=red" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/danielpeixoto01/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-black?logo=linkedin&logoColor=red" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=red" alt="LinkedIn"/>
 </a>
 <a href="https://www.instagram.com/_eodanz/">
     <img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=red" alt="Instagram"/>
