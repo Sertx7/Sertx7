@@ -61,6 +61,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
   <a href="https://daniel.peixotto9@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -81,8 +83,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/GTzbJen5xcoAAAAC/cute-wallpaper.gif"  />
-</div>
+<img align="left" height="300" src="https://media1.tenor.com/m/GTzbJen5xcoAAAAC/cute-wallpaper.gif"  />
 
 ###
