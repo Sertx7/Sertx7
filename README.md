@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">🙋🏿‍♂️ About me</h2>
+<h2 align="left">🙋🏿‍♂️ Sobre mim</h2>
 
 ###
 **`Desenvolvedor FullStack`**
@@ -98,7 +98,7 @@ Apaixonado por tecnologia e desenvolvimento web, crio interfaces modernas e resp
 
 ###
 
-<h2 align="left">🤝 Onde me achar:</h2>
+<h2 align="left">🤝 Onde me achar</h2>
 
 ###
 
