@@ -1,5 +1,7 @@
 ![Repository Image](code.jpg)
 
+---
+
 <h1 align="center">Daniel Peixoto 👾</h1>
 
 ###
