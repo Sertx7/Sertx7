@@ -5,7 +5,7 @@
 <h2 align="left">🙋🏿‍♂️ Sobre mim</h2>
 
 ###
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Front-End`**
 
 Oi, meu nome é Daniel, tenho 21 anos e sou apaixonado por tecnologia e desenvolvimento web, crio interfaces modernas e responsivas, focadas na melhor experiência do usuário. Atualmente, estou aprimorando minhas habilidades de back-end com Python/Django e SQL.
 
