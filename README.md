@@ -100,7 +100,6 @@
     <img src="https://img.shields.io/badge/-Outlook-black?style=for-the-badge&logo=microsoft-outlook&logoColor=red" alt="Outlook"/>
 </a>
 
-
 ###
 
 <div align="center">
