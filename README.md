@@ -11,7 +11,7 @@ Oi, meu nome é Daniel, tenho 21 anos e sou apaixonado por tecnologia e desenvol
 
 ###
 
-<img align="right" height="200" src="https://media1.tenor.com/m/GTzbJen5xcoAAAAC/cute-wallpaper.gif"  />
+<img align="right" height="120" src="https://media1.tenor.com/m/GTzbJen5xcoAAAAC/cute-wallpaper.gif"  />
 
 ###
 
