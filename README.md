@@ -98,7 +98,7 @@ Oi, meu nome é Daniel, tenho 21 anos e sou apaixonado por tecnologia e desenvol
 
 ###
 
-<h2 align="left">🤝 Onde me achar</h2>
+<h2 align="left">🤝 Onde me encontrar</h2>
 
 ###
 
