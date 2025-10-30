@@ -1,3 +1,7 @@
+![Imagem](https://i.imgur.com/aaxAIbM.jpeg)
+
+---
+
 ## 🙋🏿‍♂️ Sobre mim
 
 ###
