@@ -1,5 +1,3 @@
-![Repository Image](code.jpg)
-
 ---
 
 ## 🙋🏿‍♂️ Sobre mim
