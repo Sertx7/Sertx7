@@ -11,14 +11,14 @@
 
 ###
 
-## 🏆 GitHub Stats 
-
+## 🏆 GitHub Stats
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sertx7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=false" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sertx7&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=codeSTACKr&hide_border=false" height="170" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Sertx7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
 
 ---
 
@@ -77,21 +77,22 @@
 ---
 
 ## 🤝 Connect with me!
-<a href="mailto:daniel.peixotto9@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"/>
-</a>
-<a href="https://github.com/Sertx7">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=red" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/danielpeixoto01/">
-    <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=red" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/_eodanz/">
-    <img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=red" alt="Instagram"/>
-</a>
-<a href="https://discord.com/users/759248754661785660">
-    <img src="https://img.shields.io/badge/-Discord-black?style=for-the-badge&logo=discord&logoColor=red" alt="Discord"/>
-</a>
+###
+
+<div align="center">
+  <a href="mailto:daniel.peixotto9@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/_eodanz/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/users/759248754661785660" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/danielpeixoto01/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
 
